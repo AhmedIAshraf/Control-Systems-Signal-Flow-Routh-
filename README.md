@@ -17,5 +17,5 @@ Web-Based Signal Flow Graph Representation of Systems & Routh Stability Applicat
 ### Routh Hurwitz
 ![example 1](assets/ex1.jpg)
 ![example 2](assets/ex2.jpg)
-##### For more information: [Report](https://docs.google.com/document/d/1uL6hMLFGFQyZ6YEJPBvKRHZYymve6Q4Pme5JzqsNWIE/edit?usp=sharing)
+##### For more information: [Report](https://github.com/AhmedIAshraf/Control-Systems-Signal-Flow-Routh-/blob/main/assets/Control%20Programming%20Assignment.pdf)
 
